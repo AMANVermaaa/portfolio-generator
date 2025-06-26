@@ -23,22 +23,19 @@ A full-stack application built with Spring Boot (backend) and Angular (frontend)
 - **Node.js and npm**
 - **MongoDB** (local or cloud)
 - **Git**
-- **Angular 17**
-- **JavaScript**
 
 ### Installation
 
 1. **Clone the repository:**
    git clone https://github.com/AMANVermaaa/portfolio-generator.git
 
-text
 2. **Backend setup:**
-- Navigate to the backend folder (if separate).
+- Navigate to the backend folder.
 - Run:
   ```
   mvn spring-boot:run
   ```
-3. **Frontend setup (if separate):**
+3. **Frontend setup:**
 - Navigate to the frontend folder.
 - Run:
   ```
