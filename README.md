@@ -82,21 +82,5 @@ This project uses the OpenAI API to provide advanced AI features such as resume 
 **Note:**  
 Without an OpenAI API key, the core AI-powered features such as resume categorization and parsing will not work, and the application may not function as intended.
 
-## Screenshots 
 
-**Home Page**
-![img_2.png](img_2.png)
----
-**Why**
-![img_3.png](img_3.png)
----
-**Login Page**
-![img.png](img.png)
-
-
-## License
-
-Aman Verma
-
----
 
